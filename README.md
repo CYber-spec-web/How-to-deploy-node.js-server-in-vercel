@@ -27,3 +27,10 @@ To let vercel server can read library successfully
 
 
 . You should have a ```` vercel.json ```` file.
+you have to put vercel.json in the main directory
+````
+Folder
+|
+|_vercel.json
+````
+the ````vercel.json```` file was
