@@ -15,5 +15,4 @@ you may install the library that you want with command
 npm install --save <library name>
 ````
 then, your library folder will save in ```` /node_modules ```` by auto
-
-$\underline{X}$
+=
