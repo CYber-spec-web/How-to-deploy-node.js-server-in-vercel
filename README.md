@@ -11,7 +11,7 @@ if you don't know how to make the node.js file. go to here
 
 ![image](https://github.com/CYber-spec-web/How-to-deploy-node.js-server-on-vercel/blob/main/that%20is%20a%20image%20folder%2C%20ignore%20it/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-08-16%20183018.png)
 
-#### . You should have a node.js server file
+#### . You should have the node.js server code in index.js
 like this
 ````
 var express = require('express');
