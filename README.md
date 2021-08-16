@@ -1,6 +1,6 @@
 # How-to-deploy-node.js-server-on-vercel
 
-# 1. prepare file
+# 1. prepare file 🗃️🗃️
 
 
 . You should have the node.js file
