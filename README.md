@@ -32,6 +32,7 @@ variable "main" must be ```` index.js ```` (important)
 while your server file name must be ```` index.js ```` also (important)
 // for my experience, vercel could only read index.js
 
+![image](https://github.com/CYber-spec-web/How-to-deploy-node.js-server-on-vercel/blob/main/that%20is%20a%20image%20folder%2C%20ignore%20it/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-08-16%20184609.png)
 
 #### . For library install
 you may install the library that you want with command
