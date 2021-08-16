@@ -5,8 +5,9 @@
 . You should have a node.js folder
 
 . In the package.json 
-for variable "main", that must be index.js (important) and your server file name must be index.js also(important)
-// for my experience, vercel could only support index.js
+variable "main" must be index.js (important)
+while your server file name must be index.js also(important)
+// for my experience, vercel could only read index.js
 
 . For library install
 you may install the library that you want with command
