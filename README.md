@@ -3,7 +3,7 @@
 # 1. prepare file 🗃️🗃️
 
 
-## before deployment, you have to do something.  
+#### before deployment, you have to do something.  
 
 
 . You should have the node.js file
@@ -43,5 +43,5 @@ you can download it and save it in the main directory
 # 2. make a github project
 
 
-## The easy way to deploy app on vercel is to put the project in github and connect to vercel.  
-## So first, we have to make a github project.  
+#### The easy way to deploy app on vercel is to put the project in github and connect to vercel.  
+#### So first, we have to make a github project.  
